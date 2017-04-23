@@ -1,9 +1,9 @@
-# fish-plugin-peco_select_emoji
+# peco_select_emoji
 
 ## Installation
 
 ```
-$ fisher 5t111111/fish-plugin-peco_select_emoji
+$ fisher unreliable-angels/peco_select_emoji
 ```
 
 ## Example key binding
